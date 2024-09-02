@@ -2,6 +2,7 @@
 
 Simulating a quiz in web app.
 
+Please view attached .jpg file for app screenshot.
 
 **Special topics covered:**
 
